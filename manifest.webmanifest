@@ -1,0 +1,1 @@
+{"name":"Rigora Egenkontroll","short_name":"Rigora","description":"Egenkontroll takomläggning med bilder","start_url":"./index.html","scope":"./","display":"standalone","background_color":"#f2f5f8","theme_color":"#15334e","icons":[{"src":"icon-192.png","sizes":"192x192","type":"image/png"},{"src":"icon-512.png","sizes":"512x512","type":"image/png"}]}
